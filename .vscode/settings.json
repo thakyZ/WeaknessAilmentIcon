@@ -1,0 +1,13 @@
+{
+  "cSpell.words": [
+    "emazo",
+    "endracion",
+    "iceborne"
+  ],
+  "files.trimTrailingWhitespace": false,
+  "markdownlint.config": {
+    "MD009": {
+      "br_spaces": 3
+    }
+  }
+}
