@@ -2,9 +2,13 @@ textures/*.tex
 textures/*.dds
 textures/default.png
 ailments/*
+!ailments/*.psd
 elements/*
+!elements/*.psd
 common/*
+!comments/*.psd
 monsters/*
+!monsters/*.psd
 !barrel_large.psd
 !barrel_small.psd
 !dying.psd
